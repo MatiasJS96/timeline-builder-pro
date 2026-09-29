@@ -1,0 +1,1 @@
+Este programa permite renombrar un conjunto grande de archivos, permitiendo así detectar subtítulos y videos con el mismo nombre, emparejarlos y crear una Timeline en Premiere o DaVinci con los mismos ya sincronizados.
